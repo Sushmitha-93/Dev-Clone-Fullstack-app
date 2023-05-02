@@ -1,0 +1,38 @@
+.
+|   .env
+|   app.js
+|   package-lock.json
+|   package.json
+|   
++---config
+|       cloudinary.js
+|       passport-twitter.js
+|       
++---controllers
+|       comments.js
+|       notifications.js
+|       posts.js
+|       tags.js
+|       users.js
+|       
++---middleware
+|       check-auth.js
+|       file-upload.js
+|       
++---models
+|       comment.js
+|       http-error.js
+|       notification.js
+|       post.js
+|       tag.js
+|       user.js
+|                 
++---routes
+|       comments.js
+|       posts.js
+|       tags.js
+|       users.js
+|       
+\---utils
+        index.js
+        socket.js
