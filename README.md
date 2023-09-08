@@ -7,8 +7,8 @@
 🔗
 
 - Frontend: Hosted is on Github Pages 🔗
-- Backend : Hosted is on AWS EC2 🔗
-- Database: Hosted is on MongoDB Atlas 🔗
+- Backend : Hosted is on AWS EC2 🔗 https://n4cnxvr3vdoy6ozpf4hdk3ab7m0ksuot.lambda-url.us-east-1.on.aws/
+- Database: Hosted is on MongoDB Atlas 
 
 ## Tech Stack Used
 
