@@ -2,14 +2,6 @@
 
 ![posts-page](documentation/posts%20page.png)
 
-## Check out live
-
-🔗
-
-- Frontend: Hosted is on Github Pages 🔗
-- Backend : Hosted is on AWS EC2 🔗 https://n4cnxvr3vdoy6ozpf4hdk3ab7m0ksuot.lambda-url.us-east-1.on.aws/
-- Database: Hosted is on MongoDB Atlas 
-
 ## Tech Stack Used
 
 - **Frontend**:
