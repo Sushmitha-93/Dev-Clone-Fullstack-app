@@ -57,6 +57,33 @@
 
 - **Skeleton loading**
 
+# Screenshots
+
+## Login/SignUp
+
+![login-signup](documentation/login-signup.gif)
+
+## Create Post
+
+![create-post](documentation/create-post.gif)
+
+## Follow Tags
+
+![follow-tags](documentation/follow-tags.gif)
+
+## Save and Like/Unicorn Posts
+
+![save-like-unicorn](documentation/Like-save-unicorn.gif)
+
+## Comment / Reply for Posts
+
+![comment-reply](documentation/comment-reply.gif)
+
+## Get Realtime Notifications for Comments, Likes
+
+![realtime-notification](documentation/realtime-notification.gif)
+
+
 ## Backend (Node.js)
 
 This project follows a specific directory structure to maintain organization and clarity.
@@ -330,28 +357,3 @@ This project follows a specific directory structure to maintain organization and
             └── validators.js
 ```
 
-# Screenshots
-
-## Login/SignUp
-
-![login-signup](documentation/login-signup.gif)
-
-## Create Post
-
-![create-post](documentation/create-post.gif)
-
-## Follow Tags
-
-![follow-tags](documentation/follow-tags.gif)
-
-## Save and Like/Unicorn Posts
-
-![save-like-unicorn](documentation/Like-save-unicorn.gif)
-
-## Comment / Reply for Posts
-
-![comment-reply](documentation/comment-reply.gif)
-
-## Get Realtime Notifications for Comments, Likes
-
-![realtime-notification](documentation/realtime-notification.gif)
